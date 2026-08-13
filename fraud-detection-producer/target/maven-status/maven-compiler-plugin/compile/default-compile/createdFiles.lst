@@ -1,0 +1,3 @@
+com\example\frauddetectionproducer\FraudDetectionProducerApplication.class
+com\example\frauddetectionproducer\KafkaProducerService.class
+com\example\frauddetectionproducer\FraudDetectionProducerController.class

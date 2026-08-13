@@ -1,0 +1,4 @@
+com\example\frauddetectionconsumer\FraudDetectionConsumerApplication.class
+com\example\frauddetectionconsumer\KafkaConsumerService.class
+com\example\frauddetectionconsumer\FraudDetectionConsumerController.class
+com\example\frauddetectionconsumer\FraudDetectionService.class
